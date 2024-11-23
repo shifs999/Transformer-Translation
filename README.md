@@ -46,7 +46,7 @@ python train.py
 
 
 ## Overview
-![Transformer](https://github.com/shubh-man007/Projects/blob/main/ChaturGPT/transform20fps.gif)
+![Transformer](https://github.com/shifs999/Transformer-Translation/blob/main/transform20fps.gif)
 
 [![GoogleAI](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](https://3.bp.blogspot.com/-aZ3zvPiCoXM/WaiKQO7KRnI/AAAAAAAAB_8/7a1CYjp40nUg4lKpW7covGZJQAySxlg8QCLcBGAs/s1600/transform20fps.gif)  
 
