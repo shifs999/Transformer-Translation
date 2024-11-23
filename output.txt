@@ -1,0 +1,40 @@
+--------------------------------------------------------------------------------
+SOURCE: 'Why, but three steps will add to its length as well… Where will it get to?'
+TARGET: — Ma tre scalini sposteranno la lunghezza... E dove arriverà?
+PREDICTED: — E perché tre scalini la lunghezza ... E dove arriverà ?
+--------------------------------------------------------------------------------
+SOURCE: Yes, and if nothing had been done that ought not to have been done, I, old as I am, would have challenged him – that fop!
+TARGET: Sissignora; se non ci fosse stato da parte vostra quello che non ci sarebbe dovuto essere, io, anche vecchio, l’avrei sfidato a duello, quel cascamorto.
+PREDICTED: Sì , ma se non fosse stato da nulla che non ci fosse stato fatto in nessun modo , anche vecchio , avrei cercato , invece , anche un cascamorto .
+--------------------------------------------------------------------------------
+SOURCE: He had often before been joyfully conscious of his body, but had never loved himself, his own body, as he did now.
+TARGET: Anche altre volte aveva provato la gioiosa sensazione del proprio corpo come ora.
+PREDICTED: Gli accadeva spesso con piacere la propria sensazione , ma non l ’ aveva mai amata , e in quel momento lo stesso .
+--------------------------------------------------------------------------------
+SOURCE: A crowd of friends and strangers surrounded him.
+TARGET: Una folla di amici e di estranei lo circondò.
+PREDICTED: Una folla di amici e di estranei lo circondò .
+--------------------------------------------------------------------------------
+SOURCE: Distrust, the very feeling I dreaded, appeared in Hannah's face.
+TARGET: Quello che avevo previsto si avverò; il viso di Anna si rabbuiò.
+PREDICTED: Quello che avevo previsto si avverò ; il viso di Anna si rabbuiò .
+--------------------------------------------------------------------------------
+SOURCE: I should have followed up my first inquiry, by asking in what way Miss Varens was connected with her; but I recollected it was not polite to ask too many questions: besides, I was sure to hear in time.
+TARGET: Stavo per domandarle in quali rapporti era con la signorina Varens, quando mi rammentai che non stava bene di far tante interrogazioni.
+PREDICTED: Avevo appena fatto la prima volta che mi domandò come la signorina Varens , per la quale mi rammentai che non ero stata troppo pronta per studiare molte domande .
+--------------------------------------------------------------------------------
+SOURCE: I knew you would come!
+TARGET: Lo sapevo che saresti venuta.
+PREDICTED: Lo sapevo che saresti venuta .
+--------------------------------------------------------------------------------
+SOURCE: But I want you to tell me this...'
+TARGET: Ma, ecco, cosa mi devi dire...
+PREDICTED: Ma io ho bisogno di questo ....
+--------------------------------------------------------------------------------
+SOURCE: As time went on, the oftener he felt himself caught in these meshes the more he desired, not exactly to escape from them but to try whether they really interfered with his freedom.
+TARGET: Quanto più il tempo passava, quanto più spesso egli si vedeva avvolto in queste reti, tanto più gli veniva il desiderio non di uscirne, ma di provare se queste non intralciassero la sua libertà.
+PREDICTED: Quanto più il tempo passava , tanto più spesso si sentiva in quei momenti che gli si vedeva , non solo non si poteva sperare che non di se non di quella forza di .
+--------------------------------------------------------------------------------
+SOURCE: Tanya stood like a grown-up person and looked after the little ones.
+TARGET: Tanja stava lì composta come una personcina grande e badava ai piccoli.
+PREDICTED: Tanja stava lì composta come una personcina grande e badava ai piccoli .
