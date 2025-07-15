@@ -1,12 +1,10 @@
-## Chatur-GPT
+## `NeuraTranslate` - Efficient multilingual neural machine translation model
 
 - This project is an implementation of the **`Attention is all you Need`** paper.
 
-  
-
 ## Model Description
 - **Transformer Based (124M):** 
-    Chatur-GPT is a Generative Pre-Trained model built from scratch which is trained on a multilingual dataset, enabling effective translation across various languages.
+    NeuraTranslate is a Generative Pre-Trained model built from scratch which is trained on a multilingual dataset, enabling effective translation across various languages.
 
 - **Visualization:**  Added an **attention visualizer** to dynamically  display the attention patterns of the pre-trained model, providing insights into how the model interprets and prioritizes different parts of input sequences.
 
